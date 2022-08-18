@@ -9,7 +9,7 @@ Download the ZIP folder from Github repository and extract it.
 4. Choose the "Deep Learning Architectures" folder to excute/run for forecasting purposes of different DL architectures.
 
 # For MATLAB Files:
-1. Open MATLAB program and place "Plot Aided Files" in MATLAB directory to run matlab files.
+1. Open MATLAB program and place "Plot Aided Files" and MATLAB_Code_STLF in MATLAB directory to run matlab files.
 2. Run the program
 
 # Citation
