@@ -1,0 +1,26 @@
+Date,Hour,Day,Electrical Load,Date,Day,Electrical Load,Date,Day,Electrical Load,Date,Day,Electrical Load,Date,Day,Electrical Load,Date,Day,Electrical Load,Date,Day,Electrical Load
+00:00,1,Sunday,29536,00:00,Monday,28846,00:00,Tuesday,26446,00:00,Wednseday,28467,00:00,Thursday,28365,00:00,Friday,28023,00:00,Saturday,27071
+01:00,2,Sunday,28364,01:00,Monday,27669,01:00,Tuesday,25501,01:00,Wednseday,27413,01:00,Thursday,26895,01:00,Friday,26578,01:00,Saturday,25440
+02:00,3,Sunday,26949,02:00,Monday,26661,02:00,Tuesday,24399,02:00,Wednseday,26278,02:00,Thursday,25906,02:00,Friday,25658,02:00,Saturday,25769
+03:00,4,Sunday,25615,03:00,Monday,25805,03:00,Tuesday,23654,03:00,Wednseday,25308,03:00,Thursday,25066,03:00,Friday,25044,03:00,Saturday,24853
+04:00,5,Sunday,25146,04:00,Monday,26181,04:00,Tuesday,23693,04:00,Wednseday,25491,04:00,Thursday,24908,04:00,Friday,25086,04:00,Saturday,24684
+05:00,6,Sunday,24969,05:00,Monday,27499,05:00,Tuesday,24533,05:00,Wednseday,26134,05:00,Thursday,25798,05:00,Friday,25982,05:00,Saturday,25292
+06:00,7,Sunday,24833,06:00,Monday,30108,06:00,Tuesday,26592,06:00,Wednseday,29348,06:00,Thursday,28553,06:00,Friday,28811,06:00,Saturday,26845
+07:00,8,Sunday,23998,07:00,Monday,36221,07:00,Tuesday,34911,07:00,Wednseday,36634,07:00,Thursday,36103,07:00,Friday,35799,07:00,Saturday,28526
+08:00,9,Sunday,25935,08:00,Monday,47377,08:00,Tuesday,45499,08:00,Wednseday,46279,08:00,Thursday,46230,08:00,Friday,46134,08:00,Saturday,33323
+09:00,10,Sunday,35521,09:00,Monday,58317,09:00,Tuesday,56231,09:00,Wednseday,57095,09:00,Thursday,56703,09:00,Friday,57085,09:00,Saturday,44291
+10:00,11,Sunday,41549,10:00,Monday,63803,10:00,Tuesday,62163,10:00,Wednseday,62266,10:00,Thursday,61633,10:00,Friday,61732,10:00,Saturday,49659
+11:00,12,Sunday,42181,11:00,Monday,64688,11:00,Tuesday,62925,11:00,Wednseday,63545,11:00,Thursday,62766,11:00,Friday,62745,11:00,Saturday,50415
+12:00,13,Sunday,42797,12:00,Monday,64566,12:00,Tuesday,62755,12:00,Wednseday,63280,12:00,Thursday,62163,12:00,Friday,61201,12:00,Saturday,50178
+13:00,14,Sunday,42573,13:00,Monday,63859,13:00,Tuesday,62442,13:00,Wednseday,62925,13:00,Thursday,61714,13:00,Friday,59993,13:00,Saturday,47193
+14:00,15,Sunday,42768,14:00,Monday,65080,14:00,Tuesday,63284,14:00,Wednseday,63753,14:00,Thursday,62128,14:00,Friday,61386,14:00,Saturday,46476
+15:00,16,Sunday,42478,15:00,Monday,63998,15:00,Tuesday,63551,15:00,Wednseday,63749,15:00,Thursday,61966,15:00,Friday,61695,15:00,Saturday,45443
+16:00,17,Sunday,41759,16:00,Monday,61603,16:00,Tuesday,60818,16:00,Wednseday,59773,16:00,Thursday,58857,16:00,Friday,59307,16:00,Saturday,44754
+17:00,18,Sunday,41730,17:00,Monday,52972,17:00,Tuesday,51756,17:00,Wednseday,50793,17:00,Thursday,50635,17:00,Friday,50715,17:00,Saturday,44443
+18:00,19,Sunday,43558,18:00,Monday,50044,18:00,Tuesday,48568,18:00,Wednseday,47610,18:00,Thursday,47718,18:00,Friday,48161,18:00,Saturday,45393
+19:00,20,Sunday,46955,19:00,Monday,51883,19:00,Tuesday,50603,19:00,Wednseday,50482,19:00,Thursday,48927,19:00,Friday,50818,19:00,Saturday,48925
+20:00,21,Sunday,45841,20:00,Monday,50579,20:00,Tuesday,48838,20:00,Wednseday,48815,20:00,Thursday,47476,20:00,Friday,49033,20:00,Saturday,47713
+21:00,22,Sunday,37817,21:00,Monday,41658,21:00,Tuesday,39657,21:00,Wednseday,39911,21:00,Thursday,39695,21:00,Friday,39879,21:00,Saturday,38899
+22:00,23,Sunday,31649,22:00,Monday,35432,22:00,Tuesday,34123,22:00,Wednseday,33469,22:00,Thursday,33108,22:00,Friday,34111,22:00,Saturday,32849
+23:00,24,Sunday,28601,23:00,Monday,30607,23:00,Tuesday,30656,23:00,Wednseday,31038,23:00,Thursday,30258,23:00,Friday,30132,23:00,Saturday,30401
+,,Sunday,46955,,Monday,65080,,Tuesday,63551,,Wednseday,63753,,Thursday,62766,,Friday,62745,,Saturday,50415
